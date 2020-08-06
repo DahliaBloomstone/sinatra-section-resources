@@ -24,7 +24,7 @@ Get comfortable with why we use this file structure, as MVC will be present in m
 
   2. **View (The Frontend of our Application):** Think of the view as the plate of food that the customer finally sees, this could be considered the "frontend" of our application.
 
-  3. **Controller (Intermediary for the Model and View):** Think of the controller as the waiter goes back and forth between the kitchen and the customer's table. The waiter delivers the plate of food from the kitchen to the customer (end user/frontend) and returns back to the kitchen at the customers request — the plate/customer could be considered the "view" in this analogy.
+  3. **Controller (Intermediary for the Model and View):** Think of the controller as the waiter goes back and forth between the kitchen and the customer's table. The waiter  delivers the plate of food from the kitchen to the customer (end user/frontend) and returns back to the kitchen at the customers request — the plate/customer could be considered the "view" in this analogy.
 
 At the end of this unit you should be able to explain the MVC flow in your own words.
 
